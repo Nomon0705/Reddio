@@ -19,6 +19,7 @@ It leverages zero-knowledge technology to achieve massive computation scale whil
 # Clone the repository
 git clone git@github.com:reddio-com/reddio.git
 cd reddio
+sudo app 
 
 # Build
 make build
