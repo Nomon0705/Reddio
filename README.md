@@ -1,7 +1,7 @@
 //this is the readme file for using this in more Easiyly
 # Reddio
 
-[Reddio](https://www.reddio.com/) is a high-performance, Ethereum-compatible Layer 2 solution.  
+[Reddio](https://www.reddio.com/) is a high-performance, 
 It leverages zero-knowledge technology to achieve massive computation scale while maintaining Ethereum-level security.
 
 ---
